@@ -1,1 +1,1 @@
-# Prime factors od number
+# Prime factors of number
